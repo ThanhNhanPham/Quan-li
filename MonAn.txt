@@ -1,0 +1,4 @@
+0001,Lau Thai,150000,12
+0002,Lau Cua Dong,200000,6
+0003,Lau Hai San,250000,20
+0004,Lau Chay,40000,7

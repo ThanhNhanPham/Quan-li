@@ -1,0 +1,4 @@
+0001,Lau Thai,150k,20
+0002,Lau Ech,180k,17
+0003,Lau Cua Dong, 155k,30
+0005,Lau Hai San,200k,35
